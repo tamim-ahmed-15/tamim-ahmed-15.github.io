@@ -119,7 +119,7 @@ body {
 
 .logo-icon {
     font-size: 2rem;
-    animation: float 3s ease-in-out infinite;
+    animation: float 0s ease-in-out infinite;
 }
 
 .nav-menu {
@@ -968,4 +968,5 @@ body {
     .contact-form { gap: 1rem; }
     .form-group input, .form-group textarea { padding: 12px; }
     .experience-content { gap: 2rem; }
+
 }
